@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎉 Selamat Datang di Proyek Backend API - CodeIgniter 4 🎉
 
 Proyek ini adalah backend API yang dibangun menggunakan framework CodeIgniter 4. API ini dirancang untuk mengelola data mahasiswa, ketua jurusan (kajur), cuti, pengguna, dan admin dengan performa optimal. Ikuti panduan ini untuk menyiapkan dan menjalankan proyek di mesin lokal Anda dengan mudah!
@@ -151,3 +152,6 @@ Untuk Uji API di Postman
 - DELETE ```http://localhost:8080/admin/{id_admin}```
 
 Selesai. Proyek backend API Anda sekarang seharusnya sudah berjalan. Jika Anda mengalami masalah, lihat Panduan Pengguna CodeIgniter 4 atau cari bantuan dari komunitas atau internet.
+=======
+# Cuti-backendFassha
+>>>>>>> 03679c3eae1f692d37e9466ec9e6401a0243c233
